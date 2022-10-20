@@ -1765,7 +1765,7 @@ button {
 }
 
 .main-header--one__bottom-right .contact-box .icon:hover span::before {
-  color: var(--agriox-primary, #334b35);
+  color: var(--agriox-primary, #f7f7f7);
 }
 
 .main-header--one__bottom-right .contact-box .text {
@@ -1775,13 +1775,13 @@ button {
 }
 
 .main-header--one__bottom-right .contact-box .text p {
-  color: var(--agriox-color-1, #687469);
+  color: var(--agriox-color-1, #ffffff);
   font-size: 13px;
   line-height: 22px;
 }
 
 .main-header--one__bottom-right .contact-box .text a {
-  color: var(--agriox-primary, #334b35);
+  color: var(--agriox-primary, #ffffff);
   font-size: 18px;
   line-height: 22px;
   font-weight: 700;
@@ -1872,7 +1872,7 @@ button {
 }
 
 .main-header--one--two .main-header--one__bottom-right .contact-box .icon:hover {
-  background-color: var(--agriox-primary, #334b35);
+  background-color: var(--agriox-primary, #ffffff);
 }
 
 .main-header--one--two .main-header--one__bottom-right .contact-box .icon span::before {
